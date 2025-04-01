@@ -18,4 +18,5 @@ This project simulates a turn-based Battleship game using Python, built for a so
 - Turn-based guess evaluation with clear hit/miss/sunk output
 - Clean object-oriented structure for extensibility
 
+
 Note: This project was tested using instructor-given JUnit tests.
